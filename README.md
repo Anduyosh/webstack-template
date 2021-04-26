@@ -1,2 +1,3 @@
-# webstack-template
-A basic web stack development template
+# Webstack Template
+
+A basic web stack development template.

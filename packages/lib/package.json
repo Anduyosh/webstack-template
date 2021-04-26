@@ -1,0 +1,12 @@
+{
+    "name": "@webstack-template/lib",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "yup": "^0.32.9"
+    },
+    "devDependencies": {}
+}
